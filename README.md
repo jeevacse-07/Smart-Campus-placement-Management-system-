@@ -269,7 +269,7 @@ npm run dev
 | *(Team Member 3)* | Backend Developer |
 | *(Team Member 4)* | Database & Testing |
 
-**Guide:** *(Faculty Guide Name)*  
+
 **Institution:** VSB Engineering College, Karur
 
 ---
